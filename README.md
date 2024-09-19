@@ -37,6 +37,8 @@ This project focuses on determining whether a cell is infected with malaria or n
 | ResNet50         | XX%            | XX%           |
 | MobileNetV2      | XX%            | XX%           |-->
 
+### Kaggle Notebook Link
+You can also find the notebook link on Kaggle to run it directly there, as the dataset exists on the platform: [Malaria Detection Using Different Models](https://www.kaggle.com/code/sarasaadoun/96-acc-malaria-detection-using-different-models)
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please create an issue or submit a pull request.
